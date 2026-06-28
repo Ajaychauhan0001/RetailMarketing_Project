@@ -1,0 +1,11 @@
+store_id,store_name,city,region
+S101,RetailMart Jaipur,Jaipur,North
+S102,RetailMart Delhi,Delhi,North
+S103,RetailMart Mumbai,Mumbai,West
+S104,RetailMart Pune,Pune,West
+S105,RetailMart Bangalore,Bangalore,South
+S106,RetailMart Chennai,Chennai,South
+S107,RetailMart Hyderabad,Hyderabad,South
+S108,RetailMart Kolkata,Kolkata,East
+S109,RetailMart Lucknow,Lucknow,North
+S110,RetailMart Ahmedabad,Ahmedabad,West
